@@ -2,8 +2,8 @@ import math, random
 
 nada = None
 cadena = "Mario Salguero"
-entero = 99
-flotante = 4.3
+entero = 121
+flotante = 8.3
 booleano = True
 lista = [1, 54, 23, 124]
 listaString = [1, "Mario", "Salguero", 58, 24]
